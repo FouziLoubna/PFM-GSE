@@ -4,6 +4,9 @@
 
 ### Description
 Application web permettant aux étudiants, tuteurs académiques et entreprises de collaborer efficacement dans la gestion des stages universitaires.
+# démonstration vidéo
+Pour voir une démonstration vidéo, cliquez sur le lien suivant : 
+https://drive.google.com/file/d/1n76G5mif7JJUfh8rm7FgmgKsRHPDSpTU/view
 
 ### Fonctionnalités principales :
 - **Étudiant :**
